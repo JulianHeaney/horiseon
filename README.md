@@ -10,4 +10,4 @@ GitHub Repo URL: https://github.com/JulianHeaney/horiseon.git
 
 
 
-![image](assets/images/horiseonscreenshot.png)
+![image](develop/assets/images/horiseonscreenshot.png)
